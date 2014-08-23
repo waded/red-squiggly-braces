@@ -1,18 +1,17 @@
-This is a dictionary of programming terms for Microsoft Word. It can be added to the proofing options in Word to get rid of
-the red squiggly lines on common terms like "mutator."
+This is a dictionary of English programming terms for Microsoft Word. Add it to Word's proofing options and it'll get rid of red squiggly lines on futuristic and zombtastic words like "mutator."
 
 I haven't added many terms. Please send a pull request to add your favorites.
 
 How do I use it?
 ---
 
-Word 2013 (En): File, Options, Proofing, Custom Dictionaries, and browse to red-squiggly-braces.dic.
+*Word 2013 (En)* File, Options, Proofing, Custom Dictionaries, and browse to red-squiggly-braces.dic.
 
 I'm still researching if there's an ideal place to locate red-squiggly-braces.dic such that it roams between PCs.
 
-Word Web App: Unfortunately Word custom dictionaries can't roam to the web app. When it becomes possible I'll update this.
+*Word Web App* Unfortunately Word custom dictionaries can't roam to the web app. When it becomes possible I'll update this.
 
-Word for Mac: I'll look into it when a modern version releases.
+*Word for Mac* I'll look into it when a modern version releases.
 
 How can I add to it?
 ---
