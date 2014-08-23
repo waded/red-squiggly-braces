@@ -5,19 +5,13 @@ I haven't added many terms. Please send a pull request to add your favorites.
 How do I use it?
 ---
 
-Word 2013 (En)
-
-File, Options, Proofing, Custom Dictionaries, and browse to red-squiggly-braces.dic.
+*Word 2013 (En)* - File, Options, Proofing, Custom Dictionaries, and browse to red-squiggly-braces.dic.
 
 I'm still researching if there's an ideal place to locate red-squiggly-braces.dic such that adding it on one PC adds it on all your PCs.
 
-*Word Web App*
+*Word Web App* - Unfortunately Word custom dictionaries don't sync to the web app. When they do I'll update this. I suspect Windows 8's spellcheck is based on Office's, so perhaps there's something that can be done with that.
 
-Unfortunately Word custom dictionaries don't sync to the web app. When they do I'll update this. I suspect Windows 8's spellcheck is based on Office's, so perhaps there's something that can be done with that.
-
-*Word for Mac*
-
-I'll look into it when a modern version releases.
+*Word for Mac* - I'll look into it when a modern version releases.
 
 How can I add to it?
 ---
