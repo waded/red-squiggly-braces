@@ -11,7 +11,7 @@ I'm still researching if there's an ideal place to locate red-squiggly-braces.di
 
 *Word Web App* - Unfortunately Word custom dictionaries don't sync to the web app. When they do I'll update this. I suspect Windows 8's spellcheck is based on Office's, so perhaps there's something that can be done with that.
 
-*Word for Mac* - I'll look into it when a modern version releases.
+*Word for Mac 2011* - Word, Preferences, Spelling and Grammar, Dictionaries, Add, and browse to red-squiggly-braces.dic.
 
 How can I add to it?
 ---
