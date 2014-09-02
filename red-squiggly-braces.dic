@@ -6,6 +6,7 @@ finalizer
 iterable
 mixin
 mutator
+mutex
 orthogonality
 performant
 sudo
