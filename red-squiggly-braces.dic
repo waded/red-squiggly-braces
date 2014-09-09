@@ -6,6 +6,8 @@ backporting
 const
 contravariance
 contravariant
+cron
+crontab
 devops
 finalizer
 functor
