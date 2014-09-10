@@ -1,6 +1,6 @@
-This is a dictionary of English programming terms for Microsoft Word. Add it to Word's proofing options and it'll get rid of red squiggly lines on futuristic and zombtastic words like "mutator."
+This is a dictionary of English programming & software design terms for Microsoft Word. Add it to Word's proofing options and it'll get rid of red squiggly lines on words like "iterable", "backport", and "xyzzy."
 
-I haven't added many terms. Please send a pull request to add your favorites.
+Please send a pull request to add terms you've come across. Please include a reference that shows the term in use. Stackoverflow posts that show the term in conversation are great as a reference, and so are Wikipedia articles. Word's spell check lets terms that appear to be proper nouns slide, so please don't bother with trademark terms and product names.
 
 How do I use it?
 ---
