@@ -20,6 +20,8 @@ mutex
 OLAP
 orthogonality
 performant
+polyfill
+polyfiller
 sudo
 throbber
 unescape
