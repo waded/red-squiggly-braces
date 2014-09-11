@@ -1,6 +1,8 @@
-This is a dictionary of English programming & software design terms for Microsoft Word. Add it to Word's proofing options and it'll get rid of red squiggly lines on words like "iterable", "backport", and "xyzzy."
+red-squiggly-braces is a Microsoft Word proofing dictionary of English programming, software design, and computer science terms. Add it to Word's proofing options and it'll get rid of red squiggly lines on words like "iterable", "backport", and "xyzzy."
 
-Please send a pull request to add terms you've come across. Please include a reference that shows the term in use. Stackoverflow posts that show the term in conversation are great as a reference, and so are Wikipedia articles. Word's spell check lets terms that appear to be proper nouns slide, so please don't bother with trademark terms and product names.
+Please send a pull request, or open an issue, to suggest to add terms you've seen Word indicate as misspelled.
+
+Please include a reference that shows the term in use. StackOverflow posts that show the term in conversation are great references, and so are Wikipedia articles. Word's checker lets proper nouns slide, so please don't bother suggesting trademarks and product names.
 
 How do I use it?
 ---
