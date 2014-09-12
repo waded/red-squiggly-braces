@@ -14,6 +14,8 @@ functor
 GUID
 iterable
 JSON
+memoize
+memoization
 mixin
 mutator
 mutex
