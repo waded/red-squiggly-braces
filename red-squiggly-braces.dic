@@ -20,6 +20,7 @@ grokking
 GUID
 iterable
 JSON
+marshalling
 memoization
 memoize
 microdata
@@ -41,5 +42,7 @@ throbber
 thunk
 thunking
 unescape
+unmarshal
+unmarshalling 
 xyzzy
 zeroth
