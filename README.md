@@ -18,4 +18,4 @@ I'm still researching if there's an ideal place to locate red-squiggly-braces.di
 How can I add to it?
 ---
 
-Word's .dic files are just crlf-delimited files. Add words to the file using any text editor. The Custom Dictionaries screen also allows you to add words. Finally (I don't recommend this) if in Custom Dictionaries you set the file as the default, when you use the "Add to Dictionary" option in Word it'll append to the file.
+Word's .dic files are  UTF-16 LE w/ BOM. Newlines delimit the words. Add words to the file using any text editor, taking care not to break the encoding (Word for Windows appears to be sensitive to it, while Word for Mac is not.) Or: the Custom Dictionaries screen allows you to view and edit the file. Or: in Custom Dictionaries if you set the file as the default, when you use the "Add to Dictionary" option in a document it'll append to the file.
