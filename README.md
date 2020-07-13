@@ -7,9 +7,9 @@ Please include a reference that shows the term in use. StackOverflow posts that 
 How do I use it?
 ---
 
-*Word 2013 (En)* - File, Options, Proofing, Custom Dictionaries, and browse to red-squiggly-braces.dic.
+*Word (latest version as of May 2020)* - File, Options, Proofing, Custom Dictionaries, Add, browse to red-squiggly-braces.dic.
 
-I'm still researching if there's an ideal place to locate red-squiggly-braces.dic such that adding it on one PC adds it on all your PCs.
+*Word 2013* - File, Options, Proofing, Custom Dictionaries, Add, browse to red-squiggly-braces.dic.
 
 *Word Web App* - Unfortunately Word custom dictionaries don't sync to the web app. When they do I'll update this. I suspect Windows 8's spellcheck is based on Office's, so perhaps there's something that can be done with that.
 
