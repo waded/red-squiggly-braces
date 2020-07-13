@@ -11,8 +11,6 @@ How do I use it?
 
 *Word 2013* - File, Options, Proofing, Custom Dictionaries, Add, browse to red-squiggly-braces.dic.
 
-Looking for help: is there an ideal place to locate red-squiggly-braces.dic such that Word will use it on all your PCs?
-
 *Word Web App* - Unfortunately Word custom dictionaries don't sync to the web app. When they do I'll update this. I suspect Windows 8's spellcheck is based on Office's, so perhaps there's something that can be done with that.
 
 *Word for Mac 2011* - Word, Preferences, Spelling and Grammar, Dictionaries, Add, and browse to red-squiggly-braces.dic.
