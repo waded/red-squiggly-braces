@@ -3,13 +3,11 @@ red-squiggly-braces is a Microsoft Word proofing dictionary of English programmi
 How do I use it?
 ---
 
-*Word (latest version as of May 2020)* - File, Options, Proofing, Custom Dictionaries, Add, browse to red-squiggly-braces.dic.
+*Word (as of May 2020)* - File, Options, Proofing, Custom Dictionaries, Add, browse to red-squiggly-braces.dic.
 
-*Word 2013* - File, Options, Proofing, Custom Dictionaries, Add, browse to red-squiggly-braces.dic.
+*Word for Mac (as of Aug 2022)* - Word, Preferences, Spelling and Grammar, Dictionaries, Add, and browse to red-squiggly-braces.dic.
 
 *Word Web App* - Unfortunately Word custom dictionaries don't sync to the web app. When they do I'll update this. I suspect Windows 8's spellcheck is based on Office's, so perhaps there's something that can be done with that.
-
-*Word for Mac 2011* - Word, Preferences, Spelling and Grammar, Dictionaries, Add, and browse to red-squiggly-braces.dic.
 
 How can I add words to the dictionary locally?
 ---
